@@ -1,0 +1,14 @@
+C:\Users\Siphesihle Thusini\Desktop\My Modules\2023\Semester 2\IFM02B2\Project\GG-WebStore\Service2\Service2\bin\Service2.dll.config
+C:\Users\Siphesihle Thusini\Desktop\My Modules\2023\Semester 2\IFM02B2\Project\GG-WebStore\Service2\Service2\bin\Service2.dll
+C:\Users\Siphesihle Thusini\Desktop\My Modules\2023\Semester 2\IFM02B2\Project\GG-WebStore\Service2\Service2\bin\Service2.pdb
+C:\Users\Siphesihle Thusini\Desktop\My Modules\2023\Semester 2\IFM02B2\Project\GG-WebStore\Service2\Service2\obj\Debug\Service2.csproj.AssemblyReference.cache
+C:\Users\Siphesihle Thusini\Desktop\My Modules\2023\Semester 2\IFM02B2\Project\GG-WebStore\Service2\Service2\obj\Debug\Service2.csproj.CoreCompileInputs.cache
+C:\Users\Siphesihle Thusini\Desktop\My Modules\2023\Semester 2\IFM02B2\Project\GG-WebStore\Service2\Service2\obj\Debug\Service2.dll
+C:\Users\Siphesihle Thusini\Desktop\My Modules\2023\Semester 2\IFM02B2\Project\GG-WebStore\Service2\Service2\obj\Debug\Service2.pdb
+C:\Users\Robert\Desktop\IFM\New Project\Service2\Service2\bin\Service2.dll.config
+C:\Users\Robert\Desktop\IFM\New Project\Service2\Service2\bin\Service2.dll
+C:\Users\Robert\Desktop\IFM\New Project\Service2\Service2\bin\Service2.pdb
+C:\Users\Robert\Desktop\IFM\New Project\Service2\Service2\obj\Debug\Service2.csproj.AssemblyReference.cache
+C:\Users\Robert\Desktop\IFM\New Project\Service2\Service2\obj\Debug\Service2.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\IFM\New Project\Service2\Service2\obj\Debug\Service2.dll
+C:\Users\Robert\Desktop\IFM\New Project\Service2\Service2\obj\Debug\Service2.pdb
