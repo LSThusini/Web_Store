@@ -9,6 +9,7 @@ namespace Service2
 {
     public static class Secrecy
     {
+        //Can be called without instantiating the class
         public static string HashPassword(string password)
         {
             SHA1 algorithm = SHA1.Create();
