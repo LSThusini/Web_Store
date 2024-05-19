@@ -11,6 +11,7 @@ namespace GG_WebStore
     public partial class SingleProduct : System.Web.UI.Page
     {
 
+    //Instantiate the service
         ServiceReference1.Service1Client client = new ServiceReference1.Service1Client();
 
         int newProductID = 0;
